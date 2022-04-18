@@ -26,10 +26,11 @@ class Callback:
 			)
 			
 			decoded_msg = aes.decrypt_payload(msg)
-
 			print('Receive: {}, {}'.format(decoded_msg, error))
 
 			#TODO. need to decode the content of the mesage more throughly.. 
+
+			
 			
 
 		
