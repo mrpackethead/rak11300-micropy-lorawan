@@ -1,0 +1,3 @@
+[submodule "micropySX126X"]
+	path = micropySX126X
+	url = https://github.com/ehong-tl/micropySX126X.git
